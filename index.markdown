@@ -1,4 +1,4 @@
-# System About
+# flow-about
 
 This is a template for `system-about` websites.
 
