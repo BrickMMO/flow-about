@@ -1,6 +1,6 @@
 # About BrickMMO Flow
 
-This website will be used to track contributions, versions, and documentation for the BrickMMO Flow project.
+This website will be used to track contributions, versions, and documentation for the [BrickMMO Flow](https://flow.brickmmo.com/) project.
 
 > This repo is available to view at  
 > [https://brickmmo.github.io/flow-about/](https://brickmmo.github.io/flow-about/)
@@ -17,7 +17,8 @@ This project uses only [Markdown](https://www.markdownguide.org/) and is hosted 
 
 ## Repo Resources
 
-- [BrickMMO Flow](https://brickmmo.github.io/flow-about/)
+- [BrickMMO Flow About](https://brickmmo.github.io/flow-about/)
+- [BrickMMO Flow](https://flow.brickmmo.com/)
 - [GitHub - About READEME.md files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 - [Markdown](https://www.markdownguide.org/)
 
