@@ -1,51 +1,59 @@
 # Pitch: Project Name: Version #1
 
-Date: <MONTH> <DAY>, <YEAR>  
-Domain: <DOMAIN_NAME>  
+Date: August 1, 2023
+Domain: [https://flow.brickmmo.com](https://flow.brickmmo.com)
 GitHub: https://github.com/codeadamca/<REPO_NAME>
 
 ## Application Purpose
 
-This application will convert a provided image to a set of instructions to recreate the image using LEGO™ bricks.
+This application will provide BrickMMO developers with a place to login and receive their daily tasks and deadlines. 
 
-The end result will be instructions to create something similar to the [LEGO™ World Map](https://www.lego.com/en-us/product/world-map-31203):
+This application will intentionally be written in a simplified structure with a simple stack. 
 
-![Sample Map](../images/v1-map.png)
+Here are some rules for continued development:
+
+- Languages will include HTML, minimal CSS, and vanilla PHP
+- Validation is server-side and will simply simply not add the record if there is an error, it will not display specific errors, or provide a chance to fix errors
+- No libraries, frameworks, or JavaScript
+- Icons use simple HTML entities [https://www.toptal.com/designers/htmlarrows/symbols/](https://www.toptal.com/designers/htmlarrows/symbols/)
+
+This will provide BrickMMO developers with a simple application to contribute to once they have some understanding of server-side languages such as PHP.
 
 ## Front-End
 
-Front end facing application will include the following features:
+There will be no front-end for this application. All data will be behind a student and admin login. There will however be a GitHub repository to store full taks descriptions in Markdown:
 
-- A place to upload an image, specify width and height, and convert the image to a series of LEGO™ bricks (similar to [https://legoimage.com/ or https://mingze-gao.com/apps/legao/](https://legoimage.com/ or https://mingze-gao.com/apps/legao/))
-- Resulting image can be downloaded as a JPG
-- Result will also display a list of required bricks and quantity, should be styled like typical LEGO™ instructions
-- Results will also display a copyable matrix of colours
-- Instructions can be downloaded as a PDF
-- Each submission will be saved to the database
-
-Instructions will look similar to this:
-
-![Sample Instructions](../images/v1-instructions.png)
-
-Taken from the World Map LEGO™ instructions:  
-[https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6372756.pdf ](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6372756.pdf)
+[https://github.com/BrickMMO/tasks](https://github.com/BrickMMO/tasks)
 
 ## Back-End
 
-Application will include a control panel to achieve the following:
+The backend will include a login area for students and one for admin:
 
-- Login to control panel
-- Add, edit, and delete converted images
-- View instructions
-- Export instructions to PDF
+### Students
+
+- Login to application (registration, login, forgot password)
+- Dashboard
+- Toggle between classes
+- View existing tasks, details, and deadlines
+- Mark tasks as complete
+- Make notes for each task
+
+![Flow Task List](../images/v1-screenshot-flow-tasks.png)
+
+### Admin
+
+- Login to application (login, forgot password)
+- Dashboard
+- Manage classes, tasks, students, and notes
+- Import users into classes, assign tasks
 
 ## API
 
-Application API will include the following API calls:
+This application will not require an API in version one.
 
 | Method | Endpoint     | Description                                                                                                                                                                                                                                                                                                                                                                      |
 | ------ | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| POST   | /api/convert | Converts a specified image to a matrix of LEGO™ colours.<br><br>Parameters:<br>image (required): posted<br>JPG, PNG, or GIF<br>width (required): number of studs wide<br>heigh (required)t: number of studs high<br>format: format to return data in, default is "json"but also accepts "jpg"<br><br>Returns:<br>A matrix of colours for each LEGO™ brick or a JPG format image. |
+|  |  |  |
 
 [&#10132; Back to Version 1](/flow-about/v1)
 

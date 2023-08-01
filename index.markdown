@@ -2,13 +2,13 @@
 
 Flow is a BrickMMO project management application. 
 
-![BrickMMO](images/screenshot-flow-login.png)
+![BrickMMO](images/v1-screenshot-flow-login.png)
 
 This application will provide BrickMMO developers with a place to login and receive their daily tasks and deadlines. 
 
 This application will intentionally be written in a simplified structure with a simple stack. This will provide BrickMMO developers with a simple application to contribute to once they have some understanding of server-side languages such as PHP.
 
-- [System Backend](https://flow.brickmmo.com)
+- [BrickMMO Flow](https://flow.brickmmo.com)
 - [Tasks GitHub Repo](https://github.com/BrickMMO/tasks)
 
 ## [Version 1 - Initial Production](v1)
