@@ -1,15 +1,15 @@
 ## Version 1 - Initial Production
 
-Completed: December 2022
+Completed: September 2023
 
-This is a brief description of what was completed during version one.
+The initial verion of Flow will include a basic login for BrickMMO developers to review tasks, make notes, and mark tasks as complete. Admin can manage tasks, students, and classes. 
 
-![Version 1 City](images/v1-city.jpg)
+![BrickMMO](images/screenshot-flow-tasks.png)
 
 ## Related Links
 
-- [Version 1 Frontend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
-- [Version 1 Backend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
+- [Version 1 GitHub Repo](https://github.com/BrickMMO/flow-v1)
+- [Tasks GitHub Repo](https://github.com/BrickMMO/tasks)
 
 ## Documents
 

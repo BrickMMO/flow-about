@@ -1,20 +1,22 @@
 # flow-about
 
-This is a template for `system-about` websites.
+Flow is a BrickMMO project management application. 
 
-![BrickMMO](images/brickmmo.png)
+![BrickMMO](images/screenshot-flow-login.png)
 
-This part of the `index.markdown` page should include a brief description of this system and links to the current frontend and backend.
+This application will provide BrickMMO developers with a place to login and receive their daily tasks and deadlines. 
 
-- [System Frontend](https://brickmmo.com)
-- [System Backend](https://brickmmo.com)
+This application will intentionally be written in a simplified structure with a simple stack. This will provide BrickMMO developers with a simple application to contribute to once they have some understanding of server-side languages such as PHP.
+
+- [System Backend](https://flow.brickmmo.com)
+- [Tasks GitHub Repo](https://github.com/BrickMMO/tasks)
 
 ## [Version 1 - Initial Production](v1)
 
-Completed: December 2022
-
-## [Version 2 - Merge with Central Console](v2)
-
-Completed: June 2023
+Completed: September 2023
 
 ---
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>
