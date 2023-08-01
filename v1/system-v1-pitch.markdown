@@ -1,8 +1,8 @@
 # Pitch: Project Name: Version #1
 
-Date: August 1, 2023
-Domain: [https://flow.brickmmo.com](https://flow.brickmmo.com)
-GitHub: https://github.com/codeadamca/<REPO_NAME>
+Date: August 1, 2023  
+Domain: [https://flow.brickmmo.com](https://flow.brickmmo.com)  
+GitHub: https://github.com/codeadamca/flow  
 
 ## Application Purpose
 
@@ -51,8 +51,8 @@ The backend will include a login area for students and one for admin:
 
 This application will not require an API in version one.
 
-| Method | Endpoint     | Description                                                                                                                                                                                                                                                                                                                                                                      |
-| ------ | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Method | Endpoint | Description |
+| - | - | - |
 |  |  |  |
 
 [&#10132; Back to Version 1](/flow-about/v1)
