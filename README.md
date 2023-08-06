@@ -2,6 +2,9 @@
 
 This website will be used to track contributions, versions, and documentation for the [BrickMMO Flow](https://flow.brickmmo.com/) project.
 
+> **Note**  
+> All Markdown should follow the [_readme](https://readme.codeadam.ca/) guidelines.
+
 > This repo is available to view at  
 > [https://brickmmo.github.io/flow-about/](https://brickmmo.github.io/flow-about/)
 
