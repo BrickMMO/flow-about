@@ -27,8 +27,6 @@ The initial verion of Flow will include a basic login for BrickMMO developers to
 
 [&#10132; Back to About](/flow-about/)
 
-https://contributions.brickmmo.com/students/codeadamca
-
 ---
 
 <a href="https://brickmmo.com">
