@@ -16,8 +16,6 @@ The initial verion of Flow will include a basic login for BrickMMO developers to
 
 - [Pitch (Markdown)](v1/system-v1-pitch)
 - [Pitch (PDF)](v1/system-v1-pitch.pdf)
-- [Requirements Document (Markdown)](v1/system-v1-requirements)
-- [Requirements Document (PDF)](v1/system-v1-requirements.pdf)
 
 ## Contributors
 
