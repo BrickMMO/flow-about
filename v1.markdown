@@ -1,6 +1,6 @@
 <style>
 table {
-    width: 100%;
+    display: table;
 }
 </style>
 ## Version 1 - Initial Production
