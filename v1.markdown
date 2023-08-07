@@ -1,5 +1,5 @@
 <style>
-@import url("//readme.codeadam.ca/_readme.css");
+@import url("//readme.codeadam.ca/readme.css");
 </style>
 ## Version 1 - Initial Production
 
