@@ -20,13 +20,8 @@ The initial verion of Flow will include a basic login for BrickMMO developers to
 ## Contributors
 
 |                                       | Name        | Type    | Contributions
-<<<<<<< HEAD
 | ------------------------------------- | ----------- | ------- | ----------------------------------------------------- |
-| ![codeadamca](faculty/codeadamca.png) | Adam Thomas | Faculty | https://contributions.brickmmo.com/faculty/codeadamca |
-=======
-| ------------------------------------- | ----------- | ------- | ---------------------------------------------------- |
-| ![codeadamca](images/codeadamca.png) | Adam Thomas | Faculty | https://contributions.brickmmo.com/faculty/codeadamca |
->>>>>>> 42000ea7699c3013226d4b7edf5ce141d1eb1a52
+| ![codeadamca](faculty/codeadamca.png) | Adam Thomas | Faculty | [https://contributions.brickmmo.com/faculty/codeadamca](https://contributions.brickmmo.com/faculty/codeadamca) |
 
 [&#10132; Back to About](/flow-about/)
 
