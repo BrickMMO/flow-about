@@ -1,6 +1,6 @@
 <style>
 table {
-    display: table;
+    display: table !important;
 }
 </style>
 ## Version 1 - Initial Production
