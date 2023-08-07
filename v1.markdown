@@ -1,3 +1,8 @@
+<style>
+table {
+    width: 100%;
+}
+</style>
 ## Version 1 - Initial Production
 
 Completed: September 2023
