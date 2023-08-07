@@ -1,7 +1,5 @@
 <style>
-table {
-    display: table !important;
-}
+@import url("//readme.codeadam.ca/_readme.css");
 </style>
 ## Version 1 - Initial Production
 
