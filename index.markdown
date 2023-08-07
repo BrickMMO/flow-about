@@ -13,8 +13,6 @@ This application will intentionally be written in a simplified structure with a 
 
 ## [Version 1 - Initial Production](v1)
 
-Completed: September 2023
-
 ---
 
 <a href="https://brickmmo.com">
