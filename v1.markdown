@@ -1,6 +1,4 @@
-<style>
-@import url("//readme.codeadam.ca/readme.css");
-</style>
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
 ## Version 1 - Initial Production
 
 Completed: September 2023
