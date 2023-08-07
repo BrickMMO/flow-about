@@ -6,7 +6,7 @@ Date: August 1, 2023
 Domain: [https://flow.brickmmo.com](https://flow.brickmmo.com)  
 GitHub: https://github.com/codeadamca/flow  
 
-## Application Purpose
+### Application Purpose
 
 This application will provide BrickMMO developers with a place to login and receive their daily tasks and deadlines. 
 
@@ -21,17 +21,17 @@ Here are some rules for continued development:
 
 This will provide BrickMMO developers with a simple application to contribute to once they have some understanding of server-side languages such as PHP.
 
-## Front-End
+### Front-End
 
 There will be no front-end for this application. All data will be behind a student and admin login. There will however be a GitHub repository to store full taks descriptions in Markdown:
 
 [https://github.com/BrickMMO/tasks](https://github.com/BrickMMO/tasks)
 
-## Back-End
+### Back-End
 
 The backend will include a login area for students and one for admin:
 
-### Students
+#### Students
 
 - Login to application (registration, login, forgot password)
 - Dashboard
@@ -42,14 +42,14 @@ The backend will include a login area for students and one for admin:
 
 ![Flow Task List](../images/v1-screenshot-flow-tasks.png)
 
-### Admin
+#### Admin
 
 - Login to application (login, forgot password)
 - Dashboard
 - Manage classes, tasks, students, and notes
 - Import users into classes, assign tasks
 
-## API
+### API
 
 This application will not require an API in version one.
 
