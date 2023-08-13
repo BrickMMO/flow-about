@@ -1,7 +1,6 @@
 # flow-about
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 Flow is a BrickMMO project management application. 
 
