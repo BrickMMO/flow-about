@@ -1,4 +1,4 @@
-# Flow
+# About Flow
 
 This website will be used to track contributions, versions, and documentation for the [BrickMMO Flow](https://flow.brickmmo.com/) project.
 
