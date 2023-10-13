@@ -23,7 +23,7 @@ This will provide BrickMMO developers with a simple application to contribute to
 
 ### Front-End
 
-There will be no front-end for this application. All data will be behind a student and admin login. There will however be a GitHub repository to store full taks descriptions in Markdown:
+There will be no front-end for this application. All data will be behind a student and admin login. There will however be a GitHub repository to store full tasks descriptions in Markdown:
 
 [https://github.com/BrickMMO/tasks](https://github.com/BrickMMO/tasks)
 
