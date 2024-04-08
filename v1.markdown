@@ -24,11 +24,6 @@ The initial version of Flow will include a basic login for BrickMMO developers t
 
 - **v1.markdown:** Initial launch of the Q&A features, including basic functionalities for posting, answering, and moderating questions and answers.
 
-## Features
-### QnA
-#### Version Documentation
-- v1.markdown: This version marks the initial release of the Q&A features, encompassing fundamental functionalities for posting, answering, and moderating questions and answers.
-
 #### Version-1 details: 
 - Release Date: 
 - Key Features:
