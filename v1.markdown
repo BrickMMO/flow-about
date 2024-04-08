@@ -8,6 +8,13 @@ The initial version of Flow will include a basic login for BrickMMO developers t
 
 ![BrickMMO](images/v1-screenshot-flow-tasks.png)
 
+### Timesheets
+The new timesheet feature allows students to log their number of hours spent on the BrickMMO tasks every day. This feature includes 
+- a calendar view that shows total hours spent on each day
+- a day view that shows a list of entries with delete function
+- an add entry page
+- an admin dashboard for viewing any students' timesheet
+
 ## Related Links
 
 - [BrickMMO Flow](https://flow.brickmmo.com)
@@ -24,6 +31,13 @@ The initial version of Flow will include a basic login for BrickMMO developers t
 | | Name | Type | Contributions |
 | - | - | - | - |
 | ![codeadamca](faculty/codeadamca.png) | Adam Thomas | Faculty | [codeadamca](https://contributions.brickmmo.com/faculty/codeadamca) |
+
+
+## Repository Resources
+- [Markdown Guide](https://daringfireball.net/projects/markdown/)
+- [BrickMMO Website](https://brickmmo.com/)
+- [BrickMMO Flow Website](https://flow.brickmmo.com/)
+- [Q&A Feature Repository](https://github.com/BrickMMO/flow-v1)
 
 [&#10132; Back to About](/flow-about/)
 
