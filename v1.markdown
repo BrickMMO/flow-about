@@ -7,6 +7,22 @@ Completed: September 2023
 The initial version of Flow will include a basic login for BrickMMO developers to review tasks, make notes, and mark tasks as complete. Admin can manage tasks, students, and classes. 
 
 ![BrickMMO](images/v1-screenshot-flow-tasks.png)
+## Features
+
+#### Features Overview
+1. For Students
+- **Dashboard:** A personalized overview of questions and answers.
+- **Community Questions:** Easily add and view questions within the community.
+- **Answering and Voting:** Participate by answering questions and voting on the helpfulness of answers.
+- **Content Management:** Manage personal contributions by deleting questions and answers.
+
+2. For Administrators
+- **Content Oversight:** View, contribute to, and manage all questions and answers.
+- **Moderation:** Ensure the quality and appropriateness of content by deleting any question or answer.
+
+#### Version Documentation
+
+- **v1.markdown:** Initial launch of the Q&A features, including basic functionalities for posting, answering, and moderating questions and answers.
 
 ## Features
 #### Version-1 details: 
