@@ -19,11 +19,21 @@ The initial version of Flow will include a basic login for BrickMMO developers t
 - [Pitch (Markdown)](v1/system-v1-pitch)
 - [Pitch (PDF)](v1/system-v1-pitch.pdf)
 
+## Features
+### Q&A
+
+### Timesheets
+
 ## Contributors
 
 | | Name | Type | Contributions |
 | - | - | - | - |
 | ![codeadamca](faculty/codeadamca.png) | Adam Thomas | Faculty | [codeadamca](https://contributions.brickmmo.com/faculty/codeadamca) |
+|![](images/lovepreet-g.jpg)| Lovepreet Singh | Student | [lovepreet-g](https://contributions.brickmmo.com/students/lovepreet-g)|
+|![](images/saloni.png)|Saloni Pawar| Student |
+|![](images/surbhisinghania13.jpeg)|Surbhi Singhania|Student|[surbhisinghania](https://contributions.brickmmo.com/students/surbhisinghania13)
+|![](images/leonwongdev.jpg)|Lap Wang Wong|Student|[leonwongdev](https://contributions.brickmmo.com/students/leonwongdev)
+||Nhi Nguyen| Student|
 
 [&#10132; Back to About](/flow-about/)
 
