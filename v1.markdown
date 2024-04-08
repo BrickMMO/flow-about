@@ -8,7 +8,7 @@ The initial version of Flow will include a basic login for BrickMMO developers t
 
 ![BrickMMO](images/v1-screenshot-flow-tasks.png)
 ## Features
-
+### Q&A
 #### Features Overview
 1. For Students
 - **Dashboard:** A personalized overview of questions and answers.
@@ -24,8 +24,7 @@ The initial version of Flow will include a basic login for BrickMMO developers t
 
 - **v1.markdown:** Initial launch of the Q&A features, including basic functionalities for posting, answering, and moderating questions and answers.
 
-## Features
-#### Version-1 details: 
+#### Version-1 details
 - Release Date: 
 - Key Features:
     - Student dashboard
