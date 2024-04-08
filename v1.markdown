@@ -8,6 +8,20 @@ The initial version of Flow will include a basic login for BrickMMO developers t
 
 ![BrickMMO](images/v1-screenshot-flow-tasks.png)
 
+## Features
+### QnA
+#### Version Documentation
+- v1.markdown: This version marks the initial release of the Q&A features, encompassing fundamental functionalities for posting, answering, and moderating questions and answers.
+
+#### Version-1 details: 
+- Release Date: 
+- Key Features:
+    - Student dashboard
+    - Community question and answer functionality
+    - Voting mechanism
+    - Pagination to enhance navigation
+    - Administrative oversight and moderation tools
+
 ### Timesheets
 The new timesheet feature allows students to log their number of hours spent on the BrickMMO tasks every day. This feature includes 
 - a calendar view that shows total hours spent on each day
